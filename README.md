@@ -1,14 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm Patience<br>🚀 Backend Developer | 🧠 AI & ML Enthusiast <br>
-🥇I design and build logic-heavy, scalable backend systems using Python (Django) and Node.js (Express.js).<br>
-🥈My goal is to become a Back-End Engineer building real-world solutions that impact communities — especially in Rwanda 🇷🇼.
+👋 Hi, I'm Patience<br>💻IT Graduate and Software Developer <br>
+🥇I design and build scalable real-problem solver systems using Python (Django), Node.js (Express.js), and React.js.<br>
+🥈My goal is to become a Software Engineer building real-world solutions that impact communities — especially in Rwanda 🇷🇼.
 
 # 👨‍💻 What I’m Focused On
 
 * 🧠 System Analysis & Design
 * 🏗 Backend Architecture & API Development
-* 🗄 Database Design (PostgreSQL)
-* 🤖 Machine Learning Integration in Real Systems
+* 🗄 Database Design (PostgreSQL, MySQL, and SQL Server)
+* 🤖 AI Integration
+* 🖥️ Frontend Development
 * 💳 Financial-Grade Backend Logic
 * 🚀 Scalable SaaS Applications
 
@@ -22,17 +23,24 @@
 * 🟢 Node.js + Express
 * 🔗 REST API Design
 * 🔐 Authentication & Authorization
-
   * JWT
   * OAuth
   * Session-Based Authentication
 
 ## 🗃️ Database
 
-* 🐘 PostgreSQL
+* 🐘 PostgreSQL/MySql/SQL Server
 * 🧩 Data Modeling
 * 🔄 Relationships
 * 📦 Migrations & Schema Design
+
+## 🗃️ Frontend
+
+* 💡React.js
+* 🔴 Vite
+* 🔼 Typescript
+* 📦 Js
+
 
 
 #💡 Philosophy
@@ -72,7 +80,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=uncletoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ToonEntertainer) 
 
   
